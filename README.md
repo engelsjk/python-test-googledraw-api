@@ -57,6 +57,6 @@ Out of curiousity, I ran the same ink array against the <code>inputtools.google.
  
  For example, one of the assets for the guess of 'lion' has a URL of <a href="https://storage.googleapis.com/artlab-public.appspot.com/stencils/selman/lion-01.svg" target="_blank">https://storage.googleapis.com/artlab-public.appspot.com/stencils/selman/lion-01.svg</a>
  
- <img src="lion-01.svg" height="500px" width="auto">
+ <img src="lion-01.png" height="300px" width="auto">
  
  To date (Apr-14-2017), the <code>stencils.json</code> list only contains 371 objects, with between 1-19 assets for each object.
